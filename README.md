@@ -57,6 +57,19 @@ Weather-aware reminders and motivational feedback
 *Stack: Python, Telegram API, MongoDB*
 
 ---
+## 🧠 Current Focus
+
+- Building real-world AI-integrated microservices
+- Automating workflows with Python & FastAPI
+- Deep-diving into scalable cloud infrastructure (AWS + Terraform)
+  
+---
+## ❤️ Testimonials
+
+> “Abdulganiyu is one of the most reliable backend engineers I’ve worked with. He builds fast, tests well, and communicates even better.”  
+> — Collaborator @ Freelance AI Tool Project
+
+---
 
 ## 📊 GitHub Stats
 
@@ -66,6 +79,7 @@ Weather-aware reminders and motivational feedback
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdulganiyu313&theme=github-dark)
 
 ---
 
