@@ -78,8 +78,9 @@ Weather-aware reminders and motivational feedback
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=dark" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulganiyu313&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulganiyu313&theme=github-compact&area=true&hide_border=true&line=35&point=20&radius=4" alt="Mini Contribution Graph" />
 </p>
+
 
 ---
 
