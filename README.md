@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Abdulganiyu Abdulrasak Sulaiman 👨‍💻</h1>
-<h3 align="center">Python Engineer | AI Enthusiast | Backend Developer</h3>
+# Hi, I'm AbdulGaniyu Abdulrasak Sulaiman 👨‍💻
+### Python Engineer | AI Enthusiast | Backend Developer
 
 <p align="center">
-  <a href="mailto:abdulganiyus03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdulganiyu-abdulrasak-sulaiman-6b8769224"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:abdulganiyus03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/abdulganiyu-abdulrasak-sulaiman-6b8769224"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
 
-### 🔥 **Coding Arsenal**
+## 🔥 Coding Arsenal
 
 ```python
 class BackendEngineer:
@@ -23,14 +23,21 @@ class BackendEngineer:
     def build(self, requirements):
         return f"⚡ {random.choice(['FastAPI','Flask','Node.js'])} microservice with 99.9% uptime"
 🛠 Tech Stack
-Core Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+Core Development:
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
-AI/ML Toolkit
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+AI/ML Toolkit:
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
 
-DevOps & Cloud
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+DevOps & Cloud:
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
 
 🚀 Featured Projects
 StockSense AI
@@ -48,29 +55,29 @@ HabitForge
 » Weather-aware reminders
 » Stack: Python, Telegram API, MongoDB
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulganiyu313&theme=dark&hide_border=true" alt="streak-stats"/> <br/> <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=vision-friendly-dark&hide_title=true" alt="stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="top-langs"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulganiyu313&theme=dark" alt="GitHub Streak"> <br> <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=dark" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=dark" alt="Top Languages"> </p>
 💡 Engineering Principles
-🧪 Test in production (just kidding... mostly)
+🧪 Test thoroughly (including in production... carefully)
 
 📦 Containerize everything - If it moves, Dockerize it
 
-🤖 Automate the pain away - CI/CD or die trying
+🤖 Automate relentlessly - CI/CD is non-negotiable
 
-📝 Document like you'll forget - Because you will
+📝 Document obsessively - Your future self will thank you
 
-📫 Let's Build Something Legendary
+📫 Let's Connect
 bash
-# Terminal-style collaboration CTA
-curl -X POST https://api.abdulganiyu.dev/collab \
-   -H "Content-Type: application/awesome" \
-   -d '{"project":"next big thing"}'
-<details> <summary>📜 <b>Secret Developer Menu</b></summary> <br>
+# Terminal-style invitation
+npm install professional-collaboration
+brew tap abdulganiyu313/innovation
+<details> <summary>🔐 Secret Developer Mode</summary> <br>
 javascript
-// Easter egg for recruiters
-if (recruiter.lookingFor === "rockstarDeveloper") {
-   const interview = await scheduleCoffeeChat();
-   interview.drink = "Flat white";
-   interview.topics = ["AI", "Scalable Systems", "Your tech stack"];
+// Easter egg for curious visitors
+if (visitor.interestedIn === "awesomeProjects") {
+  initiateCollaboration({
+    medium: "virtual_coffee",
+    topics: ["AI", "Scalable Systems", "Tech Innovation"]
+  });
 }
 </details> ```
