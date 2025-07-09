@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AbdulGaniyu Abdulrasak Sulaiman  
+# 👋 Hi, I'm Abdulganiyu Abdulrasak Sulaiman  
 ### 🐍 Python Engineer | 🤖 AI Enthusiast | ⚙️ Backend Developer
 
 <p align="center">
