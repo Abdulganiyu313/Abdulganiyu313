@@ -95,7 +95,3 @@ Weather-aware reminders and motivational feedback
 
 ## 📬 Let's Connect
 
-```bash
-# Terminal-style invitation
-npm install professional-collaboration
-brew tap abdulganiyu313/innovation
