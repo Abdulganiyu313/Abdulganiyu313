@@ -70,15 +70,17 @@ I build clean, maintainable, and scalable systems with a focus on **performance,
 > **— Collaborator, Freelance AI Tool Project**
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulganiyu313&theme=dark" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=dark" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulganiyu313&theme=github-compact&area=true&hide_border=true" alt="Mini Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulganiyu313&theme=react-dark&area=true&hide_border=true&line=4c9aff&point=ffffff&color=4c9aff" alt="Contribution Graph" />
 </p>
 
 ---
