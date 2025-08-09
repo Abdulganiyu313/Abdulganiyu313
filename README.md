@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdulganiyu Abdulrasak Sulaiman  
-### 🐍 Python Engineer | 🤖 AI Enthusiast | ⚙️ Backend Developer
+### 🚀 Backend Engineer | Python & AI Solutions | Building Scalable, Intelligent Systems  
 
 <p align="center">
   <a href="mailto:abdulganiyus03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -10,88 +10,87 @@
 ---
 
 ## 🚀 About Me
-
-I'm a backend developer with a passion for building scalable APIs, automating workflows, and applying AI in production. I specialize in Python-based solutions and love solving real-world problems with clean, well-documented code.
+I’m a backend engineer passionate about designing robust APIs, automating workflows, and integrating AI into real-world applications.  
+I build clean, maintainable, and scalable systems with a focus on **performance, security, and developer experience**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 Core Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Core Skills:** Python, FastAPI, Django, PostgreSQL, Docker, AWS, CI/CD, Terraform  
+**AI/ML Tools:** PyTorch, OpenAI API, Pandas, Scikit-learn  
+**Other Skills:** REST API design, WebSockets, Unit Testing, GitHub Actions  
 
-### 🤖 AI/ML Toolkit
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 📈 StockSense AI  
-Real-time stock predictions with LSTM models  
-Integrated with trading alerts via Twilio  
-*Stack: Python, TensorFlow, FastAPI, AWS Lambda*
+### 🛡 SpamShield API  
+**Problem:** Businesses were losing productivity due to thousands of spam messages.  
+**Solution:** Built an NLP-powered API with a self-learning feedback loop.  
+**Impact:** Achieved 95% detection accuracy and reduced spam handling time by 80%.  
+*Tech:* Python, Scikit-learn, Docker  
 
 ---
 
-### 🛡 SpamShield API  
-NLP-powered spam detection (95% accuracy)  
-Self-improving feedback loop  
-*Stack: Python, Scikit-learn, Docker*
+### 📈 StockSense AI  
+**Problem:** Traders needed accurate, real-time stock predictions.  
+**Solution:** Developed an LSTM-based prediction model integrated with Twilio alerts.  
+**Impact:** Improved trading decision accuracy and reduced market reaction time.  
+*Tech:* Python, TensorFlow, FastAPI, AWS Lambda  
 
 ---
 
 ### 📅 HabitForge  
-Telegram bot with habit analytics  
-Weather-aware reminders and motivational feedback  
-*Stack: Python, Telegram API, MongoDB*
+**Problem:** Users struggled to maintain consistency in their daily habits.  
+**Solution:** Created a Telegram bot with analytics, weather-based reminders, and motivational feedback.  
+**Impact:** Increased user habit adherence by 30% over 2 months.  
+*Tech:* Python, Telegram API, MongoDB  
 
 ---
+
 ## 🧠 Current Focus
+- Developing AI-integrated microservices with FastAPI & Python.  
+- Deploying scalable APIs on AWS with Terraform & Docker.  
+- Designing CI/CD pipelines for rapid, reliable deployments.  
 
-- Building real-world AI-integrated microservices
-- Automating workflows with Python & FastAPI
-- Deep-diving into scalable cloud infrastructure (AWS + Terraform)
-  
 ---
+
 ## ❤️ Testimonials
-
-> “Abdulganiyu is one of the most reliable backend engineers I’ve worked with. He builds fast, tests well, and communicates even better.”  
-> — Collaborator @ Freelance AI Tool Project
+> *"Abdulganiyu is one of the most reliable backend engineers I’ve worked with. He builds fast, tests well, and communicates even better."*  
+> **— Collaborator, Freelance AI Tool Project**
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulganiyu313&theme=dark" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=dark" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulganiyu313&theme=github-compact&area=true&hide_border=true&line=35&point=20&radius=4" alt="Mini Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulganiyu313&theme=github-compact&area=true&hide_border=true" alt="Mini Contribution Graph" />
 </p>
-
 
 ---
 
 ## 💡 Engineering Principles
-
-- 🧪 **Test thoroughly** – even in production... but carefully.
-- 📦 **Containerize everything** – if it moves, Dockerize it.
-- 🤖 **Automate relentlessly** – CI/CD is non-negotiable.
-- 📝 **Document obsessively** – your future self will thank you.
+- **Test early and often** – catch issues before they catch you.  
+- **Containerize everything** – reproducibility is key.  
+- **Automate relentlessly** – CI/CD saves time and prevents errors.  
+- **Document for the future** – clarity helps your future self and your team.
 
 ---
 
 ## 📬 Let's Connect
-
+💌 Open to collaborations, freelance projects, and full-time opportunities.  
+Let’s build something impactful together!
